@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\felix\desktop\doorsystemcpp\doorsystemcpp\main.c(51): warning C4013: 'HasAccess' undefined; assuming extern returning int
+c:\users\felix\desktop\doorsystemcpp\doorsystemcpp\main.c(150): warning C4101: 'kontonummer': unreferenced local variable
+  doorsystemcpp.vcxproj -> C:\Users\Felix\Desktop\doorsystemcpp\Debug\doorsystemcpp.exe
